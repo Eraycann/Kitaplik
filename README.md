@@ -15,7 +15,7 @@ This simple Windows Forms application provides a book database management system
 1. **Clone the Project:**
 
    ```bash
-    git clone https://github.com/Eraycann/Kitaplik/tree/master
+    git clone https://github.com/Eraycann/Library/tree/master
 
     Open the project:    cd Kitaplik
     Open the solution file:    double click on projectname.sln
